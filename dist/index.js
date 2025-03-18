@@ -322,5 +322,6 @@ const updateEmployee = async () => {
     catch (error) {
         console.error(`❌ Error updating employee: `, error);
     }
+    init();
 };
 init();
