@@ -1,4 +1,6 @@
 # 10 SQL: Employee Tracker
+## Video DEMO:
+https://app.screencastify.com/v3/watch/iPNtaxRXo5mz4PBzVBdw
 
 ## Your Task
 
